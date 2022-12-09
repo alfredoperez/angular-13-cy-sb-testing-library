@@ -50,6 +50,7 @@
     "@storybook/builder-webpack5": "^6.5.14",
     "@storybook/manager-webpack5": "^6.5.14",
     "@storybook/testing-library": "0.0.13",
+    "@testing-library/cypress": "^8.0.7",
     "@types/jasmine": "~3.10.0",
     "@types/jest": "^29.2.4",
     "@types/node": "^12.11.1",
